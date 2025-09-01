@@ -1,0 +1,6 @@
+anomaly_detection:
+  price_threshold: 3
+  sentiment_threshold: 2
+  volume_threshold: 3
+simulation:
+  num_trades: 200
