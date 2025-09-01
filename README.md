@@ -44,3 +44,4 @@ This foundation can be extended to:
 
 3. A matplotlib window will open showing trading activity with anomalies highlighted.
 
+![Sample Result](./Figure_2.png)
